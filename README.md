@@ -4,7 +4,7 @@ I'm Adi! Thanks for stopping by! I’m currently a Computer Science student at C
 
 💻 I like coding in 🌐 JavaScript, ☕ Java and 🐍 Python!
 
-✨ I recently worked on a text-based battle game called [Battlehauz](https://github.com/AdiChops/Battlehauz) coded in Java!
+✨ I recently worked on a text-based battle game called [Battlehauz](https://github.com/AdiChops/Battlehauz), coded in Java!
 
 🔨 I'm currently working on my [personal portfolio website](https://adichops.github.io).
 
@@ -13,4 +13,4 @@ I'm Adi! Thanks for stopping by! I’m currently a Computer Science student at C
 ⚡ Fun fact: I love music! 🎵
 
 
-Feel free to [reach out to me!](aadityachopra@cmail.carleton.ca)
+Feel free to [reach out to me!](mailto:aadityachopra@cmail.carleton.ca)
