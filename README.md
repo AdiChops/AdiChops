@@ -10,7 +10,7 @@ I'm Adi! Thanks for stopping by! I’m currently a Computer Science student at C
 
 💼 I’m open for Summer Internships!
 
-⚡ Fun fact: I love music! 🎵
+⚡ Fun fact: I co-host a podcast called [**commented out**](https://linktr.ee/commented.out)!
 
 
-Feel free to [reach out to me!](mailto:aadityachopra@cmail.carleton.ca)
+Feel free to [reach out to me!](mailto:aaditya.chopra@carleton.ca)
