@@ -1,6 +1,6 @@
 ## Hi there 👋🏾
 
-I'm Adi! Thanks for stopping by! I’m currently a Computer Science student at Carleton University.
+I'm Adi! Thanks for stopping by! I’m a recent Computer Science graduate from Carleton University.
 
 💻 I like coding in 🌐 JavaScript, ☕ Java and 🐍 Python!
 
